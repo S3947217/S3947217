@@ -13,7 +13,7 @@
 ### About Me
 
 - Cloud Production Engineer at **Motorola Solutions**, operating mission-critical government infrastructure at 99.99% SLA
-- Founding Engineer at **Xolvit**, building AI-powered EdTech on serverless AWS
+- Previously Founding Engineer at **Xolvit**, building AI-powered EdTech on serverless AWS
 - Previously Platform Engineering at **Pepperstone** (financial trading) and **Nintex** (workflow automation)
 - Studying **Software Engineering (Honours)** at RMIT University
 - AWS Certified DevOps Engineer - Professional
