@@ -68,23 +68,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S3947217&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3947217&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3947217&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S3947217&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=S3947217&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
